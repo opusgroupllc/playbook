@@ -1,7 +1,6 @@
 permalink: pretty
 markdown: rdiscount
 highlighter: pygments
-url: /playbook
 
 collections:
   - plays
