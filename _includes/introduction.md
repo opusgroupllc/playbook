@@ -6,6 +6,6 @@ Our team, the Opus Group Composers' Club, is a group of software developers that
 
 ### Agile first
 ### API based platform
-### Cross-platform 
+### Cross-platform
 ### Responsive UI design
 ### Clientside MVC
